@@ -1,0 +1,11 @@
+Package: com.smokin1337.hiddenalbumlock
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: jailia
+Filename: /Hiddenalbumlock.deb
+Size: 14198
+MD5sum: 8a11fda865ada8112a14b2b3765950b8
+Section: Tweaks
+Description: jailia first tweak test
+Author: smokin1337
+Name: Hidden Album Lock

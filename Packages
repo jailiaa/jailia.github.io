@@ -21,3 +21,51 @@ Section: Tweaks
 Description: شخصی سازی سیدیا
 Author: aditkamath - jailia tested for ios 13
 Name: Flame
+
+Package: com.rpgfarm.a-shields
+Version: 1.2.4-jailia
+Architecture: iphoneos-arm
+Maintainer: jailia
+Filename: /A-shields.deb
+Size: 73166
+MD5sum: 62542ca460600181e5f82dcb2f2626c8
+Section: Tweaks
+Description: قفل کردن برنامه ها و ستینگ
+Author: rpgfarm - jailia tested for ios 13
+Name: A-shields
+
+Package: com.muirey03.smallsiri
+Version: 1.2.2-jailia
+Architecture: iphoneos-arm
+Maintainer: jailia
+Filename: /Smallsiri.deb
+Size: 174544
+MD5sum: fd15d87b29e8726bb5f359d131bce207
+Section: Tweaks
+Description: کوچیک کردن سیری
+Author: muirey03 - jailia tested for ios 13
+Name: Smallsiri
+
+Package: com.synnyg.floatydock
+Version: 2.3-jailia
+Architecture: iphoneos-arm
+Maintainer: jailia
+Filename: /Floatydock.deb
+Size: 210,354
+MD5sum: a4a88a363369221dbb3616d54fe637e7
+Section: Homescreen
+Description: کوچیک کردن سیری
+Author: muirey03 - jailia tested for ios 13
+Name: Floatydock
+
+Package: com.matchstic.xenhtml
+Version: 2.0-beta 2-jailia
+Architecture: iphoneos-arm
+Maintainer: jailia
+Filename: /Xenhtml.deb
+Size: 210,354
+MD5sum: 871b76d78f660394699b622a217a6883
+Section: widgets
+Description: اضافه کردن ویجت در هوم سکرین و لاک اسکرین
+Author: muirey03 - jailia tested for ios 13
+Name: Xen Html

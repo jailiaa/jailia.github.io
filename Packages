@@ -1,5 +1,5 @@
 Package: com.smokin1337.hiddenalbumlock
-Version: 1.0.5-jailia
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: jailia
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
@@ -12,7 +12,7 @@ Author: smokin1337 - jailia tested for ios 13
 Name: Hidden Album Lock
 
 Package: com.aditkamath.flame
-Version: 1.3-jailia
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: jailia
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
@@ -25,7 +25,7 @@ Author: aditkamath - jailia tested for ios 13
 Name: Flame
 
 Package: com.rpgfarm.a-shields
-Version: 1.2.4-jailia
+Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: jailia
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
@@ -38,7 +38,7 @@ Author: rpgfarm - jailia tested for ios 13
 Name: A-shields
 
 Package: com.muirey03.smallsiri
-Version: 1.2.2-jailia
+Version: 1.2.2
 Architecture: iphoneos-arm
 Maintainer: jailia
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
@@ -51,12 +51,12 @@ Author: muirey03 - jailia tested for ios 13
 Name: Smallsiri
 
 Package: com.synnyg.floatydock
-Version: 2.3-jailia
+Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: jailia
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Floatydock.deb
-Size: 210,354
+Size: 210354
 MD5sum: a4a88a363369221dbb3616d54fe637e7
 Section: Homescreen
 Description: اضافه کردن داک مک اواس به جای داک اصلی
@@ -64,12 +64,12 @@ Author: muirey03 - jailia tested for ios 13
 Name: Floatydock
 
 Package: com.matchstic.xenhtml
-Version: 2.0-beta 2-jailia
+Version: 2.0-beta 2
 Architecture: iphoneos-arm
 Maintainer: jailia
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Xenhtml.deb
-Size: 210,354
+Size: 6474874
 MD5sum: 871b76d78f660394699b622a217a6883
 Section: widgets
 Description: اضافه کردن ویجت در هوم سکرین و لاک اسکرین

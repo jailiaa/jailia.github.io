@@ -75,3 +75,16 @@ Section: widgets
 Description: اضافه کردن ویجت در هوم سکرین و لاک اسکرین
 Author: muirey03 - jailia tested for ios 13
 Name: Xen Html
+
+Package: Good Tweaks
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /Good tweaks.deb
+Size: 6474874
+MD5sum: 44afa0b79f19b34336e9b1ebd25be6fe
+Section: Utilites
+Description: مجموع توویک های کاربردی
+Author: Jailia
+Name: Good tweaks

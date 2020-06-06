@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.adpdigital.hamrahcard</key>
+	<true/>
+	<key>com.isc.otp</key>
+	<true/>
+	<key>enabled</key>
+	<true/>
+	<key>ir.ba24.keylead</key>
+	<true/>
+</dict>
+</plist>

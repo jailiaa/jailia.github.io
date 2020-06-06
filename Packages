@@ -2,7 +2,7 @@ Package: com.smokin1337.hiddenalbumlock
 Version: 1.0.5-jailia
 Architecture: iphoneos-arm
 Maintainer: jailia
-Depends: firmware (>13.0), mobilesubstrate
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Hiddenalbumlock.deb
 Size: 14198
 MD5sum: 8a11fda865ada8112a14b2b3765950b8
@@ -15,7 +15,7 @@ Package: com.aditkamath.flame
 Version: 1.3-jailia
 Architecture: iphoneos-arm
 Maintainer: jailia
-Depends: firmware (>13.0), mobilesubstrate
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Flame.deb
 Size: 84592
 MD5sum: f07649068f6f34a6d31fc7c6d73a32ed
@@ -28,7 +28,7 @@ Package: com.rpgfarm.a-shields
 Version: 1.2.4-jailia
 Architecture: iphoneos-arm
 Maintainer: jailia
-Depends: firmware (>13.0), mobilesubstrate
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /A-shields.deb
 Size: 73166
 MD5sum: 62542ca460600181e5f82dcb2f2626c8
@@ -41,7 +41,7 @@ Package: com.muirey03.smallsiri
 Version: 1.2.2-jailia
 Architecture: iphoneos-arm
 Maintainer: jailia
-Depends: firmware (>13.0), mobilesubstrate
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Smallsiri.deb
 Size: 174544
 MD5sum: fd15d87b29e8726bb5f359d131bce207
@@ -53,7 +53,8 @@ Name: Smallsiri
 Package: com.synnyg.floatydock
 Version: 2.3-jailia
 Architecture: iphoneos-arm
-Depends: Maintainer: jailia
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 firmware (>13.0), mobilesubstrate
 Filename: /Floatydock.deb
 Size: 210,354
@@ -67,7 +68,7 @@ Package: com.matchstic.xenhtml
 Version: 2.0-beta 2-jailia
 Architecture: iphoneos-arm
 Maintainer: jailia
-Depends: firmware (>13.0), mobilesubstrate
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Xenhtml.deb
 Size: 210,354
 MD5sum: 871b76d78f660394699b622a217a6883

@@ -55,7 +55,6 @@ Version: 2.3-jailia
 Architecture: iphoneos-arm
 Maintainer: jailia
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
-firmware (>13.0), mobilesubstrate
 Filename: /Floatydock.deb
 Size: 210,354
 MD5sum: a4a88a363369221dbb3616d54fe637e7

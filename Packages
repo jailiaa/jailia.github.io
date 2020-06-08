@@ -205,7 +205,7 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /snowboard masks.deb
 Size: 31338
 MD5sum: 54c98f4f424e2f9a4b1f9e425953b983
-Section: Snowboard Extintion
+Section: SnowBoard Extintion
 Description: اکستنشن استوبنرد
 Author: spark
 Name: Snowboard masks

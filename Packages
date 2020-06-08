@@ -130,7 +130,7 @@ MD5sum: 7191748ee27089a5384c009c9d28f257
 Section: SnowBoard Extintion
 Description: اکستنشن استوبنرد
 Author: spark
-Name: 
+Name: Snowboard statusbar
 
 Package: com.spark.snowboard.respringextension
 Version: 1.0.0~Beta1

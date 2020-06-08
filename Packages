@@ -19,7 +19,7 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Flame.deb
 Size: 84592
 MD5sum: f07649068f6f34a6d31fc7c6d73a32ed
-Section: Tweaks
+Section: Recommended
 Description: شخصی سازی سیدیا
 Author: aditkamath - jailia tested for ios 13
 Name: Flame
@@ -71,7 +71,7 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /Xenhtml.deb
 Size: 6474874
 MD5sum: 871b76d78f660394699b622a217a6883
-Section: widgets
+Section: Recommended
 Description: اضافه کردن ویجت در هوم سکرین و لاک اسکرین
 Author: muirey03 - jailia tested for ios 13
 Name: Xen Html
@@ -86,7 +86,7 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /snowboardapplication.deb
 Size: 605758
 MD5sum: 26d373ca6e2ded60cd6bceb3b7f23b4d
-Section: Recommended
+Section: Recommended , Apps
 Description: تویکی برای عوض کردن تم، پیج دات، هوم بار، داک، گذاشتن عکس هنگام ریسپرینگ و ... کلا برای تغییرات ظاهری ایفون به این تویک نیاز دارید. 
 برای ایجاد تمامی قابلیت‌های بالا به یک سری اکستندد نیاز دارید که وقتی وارت سورس ما میشوید در قسمت SnowBoard همه این اکستندد هارا دانلود کنید تا تغییرات کامل اعمال شود.
 Author: spark
@@ -261,3 +261,121 @@ Section: SnowBoard Extintion
 Description: اکستنشن استوبنرد
 Author: spark
 Name: Snowboard dock
+
+Package: com.exile90.icleanerpro
+Version: 7.8.2
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /icleanerpro.deb
+Size: 6557578
+MD5sum: 2967fdbb6c3c65b7a1d00523136e7b58
+Section: Recommended
+Description: برنامه‌ای برای حذف فایل‌های Temp و اضافی که شما هیچ دسرسی بهش ندارید و اصلا مهم نیستند !
+Author: jailia
+Name: iCleaner Pro
+
+Package: com.tigisoftware.filza
+Version: 3.7.5-9
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /filza.deb
+Size: 9580102
+MD5sum: ab5ed013c254ab9cc4ed95958a608ddc
+Section: Recommended
+Description: برنامه‌ای برای دسترسی به تک تک فایل‌های ایفون و تغییر در آن‌ها ( پیشنهاد میکنم اگه اطلاعی از کار کردن باهاش ندارید اصلا چیزی را تغییر ندهید. )
+Author: jailia
+Name: Filza
+
+Package: com.rpgfarm.a-font
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /a-font.deb
+Size: 489486
+MD5sum: 430a425fb5ea9cee671e874f3b98f716
+Section: Recommended
+Description: تغییر فونت گوشی به هر فونتی که دوست دارید
+Author: jailia
+Name: A-Font
+
+Package: com.matchstic.reprovision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /reprovision.deb
+Size: 14406348
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+Section: Recommended
+Description: برنامه‌ای برای جلوگیری از برنامه‌ها از revoke شدن.( یعنی هر برنامه که از خارج اپ استور دانلود میکنید به هیچ وجه بسته نمیشن و برای همیشه برای شما کار میکند.)
+Author: jailia
+Name: Reprovision
+
+Package: com.junesiphone.xeninfo
+Version: 2.2.9
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /xeninfo.deb
+Size: 154322
+MD5sum: f529a5322442adc07af0e31c20a2075b
+Section: Recommended
+Description: تویکی برای اضافه کردن ویجت به هوم اسکرین و لاک اسکرین. 
+شما برای این که ساعت، باطری، تقویم، آب‌وهوا و ... دقیق نمایان شود به تویک دوم هم نیاز داریک.
+Author: jailia
+Name: Xeninfo
+
+Package: com.creaturecoding.shuffle
+Version: 0.8.0b
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /shuffle.deb
+Size: 90978
+MD5sum: 1d1c28d18a3073ccaa3014b235944ebf
+Section: Recommended
+Description: تویکی برای شخصی سازی سیتینگ ایفون. شما با این تویک میتوانید در سیتینک، تویک‌ها ، برنامه‌ها و برنامه‌های سیستمی را جدا از هم به حالت پوشه پوشه در بیاورید.
+Author: jailia
+Name: Shuffle
+
+Package: com.captinc.batchomatic
+Version: 4.3.1
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /batchomatic.deb
+Size: 65672
+MD5sum: f8c5302959b1c2686d3d4d9d137c757f
+Section: Recommended
+Description: بک‌آپ گرفتن از همه سورس ها و تویک ها همراه با کارایی که در تویک‌ها انجام داده‌اید به صورت یک فایل که هنگام جیلبریک دوباره با یه کلیک میشه همه این بک‌آپ را ریستور کنید.
+Author: jailia
+Name: Batchomatic
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.5.3-2
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /appdatamanager.deb
+Size: 3670508
+MD5sum: 2eb6620e23db6922701e2407d5676f52
+Section: Recommended
+Description: برنامه‌ای برای بک‌اپ گرفتن از برنامه دلخواه و دسرسی سریعتر به فولدر مخصوص آن برنامه. ( برای هک پابجی که قراره در آینده معرفی شود لازم میشه.)
+Author: jailia
+Name: Apps Manager
+
+Package: net.myclassic.flyjb
+Version: 0.3.5~beta9
+Architecture: iphoneos-arm
+Maintainer: jailia
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
+Filename: /flyjb.deb
+Size: 592330
+MD5sum: c3783d57b2c733d2e4e8e1c0379af339
+Section: Recommended
+Description: تویکی برای رفع مشکل برنامه‌هایی که با جیلبریک کردن مشکل دارن و باز نمیشوند
+Author: jailia
+Name: FlyJB

@@ -1,0 +1,58 @@
+Apps Manager 1.5.3 (1.5 build 4)
+- Fixed keychain access on iOS 13.5
+- Fully supported iOS 13.5
+
+Apps Manager 1.5.2 (1.5 build 3)
+- Supported iOS 13.5
+
+Apps Manager 1.5.1 (1.5 build 2)
+- Supported dark mode
+- Updated colors in dark mode
+- Fixed launch screen background color
+- Fixed issue: Cydia don't remove Apps Manager icon after uninstalling
+
+Apps Manager 1.5 (1.5 build 1)
+- Updated UI, search app by name (iOS 8+)
+
+Apps Manager 1.4.3 (1.4 build 4)
+- Fixed bug: crashing on certain devices
+
+Apps Manager 1.4.2 (1.4 build 3)
+- Fixed issue COP:509
+
+Apps Manager 1.4.1 (1.4 build 2)
+- Updated translation
+
+Apps Manager 1.4 (1.4 build 1)
+- Change app icon
+- Update translation
+- Fixed issue KC:1313
+- Added bundle settings editor
+- Supported iPad UI
+- Supported iPhone X screen
+- Updated translation
+- Fixed issue KC:1329
+- Fixed issue: Blank icon on some devices
+
+Apps Manager 1.3 (1.3 build 1)
+- Fixed hanging issue
+
+Apps Manager 1.2 (1.2 build 1)
+- Updated for iOS 11 Electra JB
+
+Apps Manager 1.1 (1.1 build 1)
+- Fixed issue: localization strings
+
+Apps Manager 1.1 (1.1 build 0)
+- Added Localization files
+- Supported iOS 10
+
+Apps Manager 1.0.2 (1.0 build 3)
+- Fixed issue 'Could not read backup file'
+
+Apps Manager 1.0.1 (1.0 build 2)
+- Fixed 'Backup Failed' on iOS 8
+
+Apps Manager 1.0 (1.0 build 1)
+- First release.
+- Supports Wipe/Backup/Restore AppData

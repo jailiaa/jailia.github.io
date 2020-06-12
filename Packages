@@ -86,7 +86,7 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader ,mobilesubstrate
 Filename: /snowboardapplication.deb
 Size: 605758
 MD5sum: 26d373ca6e2ded60cd6bceb3b7f23b4d
-Section: Recommended , Apps
+Section: Recommended
 Description: تویکی برای عوض کردن تم، پیج دات، هوم بار، داک، گذاشتن عکس هنگام ریسپرینگ و ... کلا برای تغییرات ظاهری ایفون به این تویک نیاز دارید. 
 برای ایجاد تمامی قابلیت‌های بالا به یک سری اکستندد نیاز دارید که وقتی وارت سورس ما میشوید در قسمت SnowBoard همه این اکستندد هارا دانلود کنید تا تغییرات کامل اعمال شود.
 Author: spark
